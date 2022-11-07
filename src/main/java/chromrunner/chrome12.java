@@ -1,11 +1,16 @@
 package chromrunner;
 
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
 
+public class chrome12 {
 
-public class Chrome {
     @BeforeTest
-    public void beforetest(){
+
+    public void asd() {
+
 
     }
+
+
 }
